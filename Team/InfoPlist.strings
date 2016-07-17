@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Team
+
+  Created by ChoJaehyun on 2015. 10. 6..
+  Copyright (c) 2015년 Classting. All rights reserved.
+*/
+CFBundleDisplayName = "팀짜기";
+CFBundleName = "팀짜기";

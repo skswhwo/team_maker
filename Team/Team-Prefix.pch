@@ -1,0 +1,21 @@
+//
+//  Team-Prefix.pch
+//  Team
+//
+//  Created by ChoJaehyun on 2015. 10. 4..
+//  Copyright (c) 2015년 Classting. All rights reserved.
+//
+
+#ifndef Team_Team_Prefix_pch
+#define Team_Team_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <UIAlertView+Blocks/UIAlertView+Blocks.h>
+#import "NotificationController.h"
+
