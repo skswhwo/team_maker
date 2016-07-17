@@ -21,6 +21,5 @@ xcuserdata
 *.xcuserdatad
 
 # Ignore Podsfile
-/Podfile
 Podfile.lock
 /Pods
